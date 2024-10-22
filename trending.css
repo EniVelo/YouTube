@@ -1,0 +1,27 @@
+
+
+.nav-bar li.active {
+    color: #ff0000; 
+    font-weight: bold; 
+}
+
+
+a {
+    text-decoration: none; 
+    color: #1a73e8; 
+}
+
+
+a:hover {
+    color: #ff0000; 
+}
+
+
+a:active {
+    color: #d32f2f; 
+}
+
+
+a:visited {
+    color: #551a8b; 
+}
